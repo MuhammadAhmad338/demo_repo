@@ -1,2 +1,2 @@
 # demo_repo
-Practicing GitHub
+Practicing GitHub and Git.
